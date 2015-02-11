@@ -1,0 +1,37 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"FileDiffs",
+		"FormatLua",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"Goto-CSS-Declaration",
+		"JsFormat",
+		"JSHint Gutter",
+		"MacTerminal",
+		"Markdown Preview",
+		"Package Control",
+		"PackageResourceViewer",
+		"Python PEP8 Autoformat",
+		"QuickXDev",
+		"SCSS",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Tag",
+		"Theme - Sodarized"
+	]
+}
