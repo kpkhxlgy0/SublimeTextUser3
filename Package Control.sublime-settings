@@ -15,6 +15,7 @@
 		"FormatLua",
 		"Git",
 		"GitGutter",
+		"Godef",
 		"GoSublime",
 		"Goto-CSS-Declaration",
 		"JsFormat",
